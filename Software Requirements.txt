@@ -1,1 +1,6 @@
-Requirements for the developed software.
+* Read file
+*
+*
+*
+*
+*
