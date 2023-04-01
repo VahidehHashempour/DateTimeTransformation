@@ -4,10 +4,10 @@ from datetime import datetime
 now = datetime.now()
 
 # convert to date String
-date = now.strftime("%d/%m/%Y")
+date = now.strftime("%d/%m/%Y %A")
 print('Date String:', date)
 
-date = now.strftime("%d-%m-%Y")
+date = now.strftime("%d-%m-%Y %A")
 print('Date String:', date)
 
 # convert to time String
