@@ -15,3 +15,4 @@ Format 1 for time: HH:MM:SS AM/PM
 Good Luck!
 # Updates as of March, 25, 2023
 * New feature added
+* New test case added
