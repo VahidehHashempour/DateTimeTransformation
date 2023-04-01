@@ -26,3 +26,4 @@ Good Luck!
   * Now the program is able to add day of the week to the date time format.
 
 * New test case added
+ * Test case to check the day of the week is added correctly.
