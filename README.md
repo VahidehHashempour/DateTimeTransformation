@@ -3,6 +3,7 @@ https://github.com/VahidehHashempour/DateTimeTransformation.git
 # CS-5103-Course-Project-Software-Engineering-Practice
 Small personal project to get some experience on all the software engineering practices.
 
+In order to run this project datetime library needs to be imported.
 # DateTimeTransformation
 Open the file in a Python IDE
 Run the program
