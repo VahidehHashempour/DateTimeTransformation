@@ -11,19 +11,26 @@ Run the program
 
 This program converts the current date time string to 2 date and 2 time formats
 
-Format 1 for date: mm/dd/yyyy
+Format 1 for date and time: mm/dd/yyyy HH:MM:SS
 
-Format 2 for date: mm-dd-yyyy
+Format 2 for date and time: mm-dd-yyyy HH:MM:SS
 
-Format 1 for time: HH:MM:SS
+Format 3 for date and time: mm/dd/yyyy HH:MM:SS AM/PM
 
-Format 1 for time: HH:MM:SS AM/PM
+Format 4 for date and time: mm-dd-yyyy HH:MM:SS AM/PM
 
-Good Luck!
 
 # Updates as of March, 25, 2023
 * New feature added
   * Now the program is able to add day of the week to the date time format.
+
+Format 1 for date and time: mm/dd/yyyy {day of the week} HH:MM:SS
+
+Format 2 for date and time: mm-dd-yyyy {day of the week} HH:MM:SS
+
+Format 3 for date and time: mm/dd/yyyy {day of the week} HH:MM:SS AM/PM
+
+Format 4 for date and time: mm-dd-yyyy {day of the week} HH:MM:SS AM/PM
 
 * New test case added
   * Test case to check the day of the week is added correctly.
