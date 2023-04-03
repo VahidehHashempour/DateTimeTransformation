@@ -1,6 +1,7 @@
-* This program converts the current date time string to 2 date and 2 time formats. It also adds the day of the week.
+* This program converts the current date time string to 4 date and time formats. It also adds the day of the week.
 * Get the given date time string
-* Convert date to mm/dd/yyyy day of the week.
-* Convert date to mm-dd-yyyy day of the week.
-* Convert time to HH:MM:SS
-* Convert time to HH:MM:SS AM/PM
+* Convert date time string to mm/dd/yyyy day of the week HH:MM:SS
+* Convert date time string to mm-dd-yyyy day of the week HH:MM:SS
+* Convert date time string to mm/dd/yyyy day of the week HH:MM:SS AM/PM
+* Convert date time string to mm-dd-yyyy day of the week HH:MM:SS AM/PM
+* print all 4 date and time formats
