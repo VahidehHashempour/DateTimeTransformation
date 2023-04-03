@@ -1,3 +1,8 @@
+# CS 5103 Course Project: Software Engineering Practice
+# By Vahideh Hashempour
+# Data Time Transformation
+# Program will transform the given datetime string to different formats.
+
 from datetime import datetime
 
 # Function to return current date and time
