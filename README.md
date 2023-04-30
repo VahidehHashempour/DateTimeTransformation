@@ -37,10 +37,10 @@ Format 4 for date and time: mm-dd-yyyy {day of the week} HH:MM:SS AM/PM
 
 # Updates as of April, 15, 2023
 * New Feature added
- * daylight-saving Mode: 
+  * daylight-saving Mode: 
  * Now the program is able to
 
 * New test case added
 
-Test case for 
-Test case for 
+  * Test case for 
+  * Test case for 
