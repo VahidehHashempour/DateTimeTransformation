@@ -32,7 +32,7 @@ Format 3 for date and time: mm/dd/yyyy {day of the week} HH:MM:SS AM/PM
 
 Format 4 for date and time: mm-dd-yyyy {day of the week} HH:MM:SS AM/PM
 
-* New test case added
+* New test case added 
   * Test case to check the day of the week is added correctly.
 
 
