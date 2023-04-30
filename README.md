@@ -35,10 +35,11 @@ Format 4 for date and time: mm-dd-yyyy {day of the week} HH:MM:SS AM/PM
 * New test case added
   * Test case to check the day of the week is added correctly.
 
+
 # Updates as of April, 15, 2023
 * New Feature added
   * daylight-saving Mode: 
-   * Now the program is able to
+    * Now the program is able to
 
 * New test case added
 
