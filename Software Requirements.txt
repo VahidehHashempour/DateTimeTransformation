@@ -4,5 +4,7 @@
 * Convert date time string to mm-dd-yyyy day of the week HH:MM:SS
 * Convert date time string to mm/dd/yyyy day of the week HH:MM:SS AM/PM
 * Convert date time string to mm-dd-yyyy day of the week HH:MM:SS AM/PM
+* Get the given daylight-saving starting date time.
+* Get the given daylight-saving ending date time.
+* print daylight-saving starting date time and daylight-saving ending date time.
 * print all 4 date and time formats.
-
