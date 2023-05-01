@@ -46,6 +46,8 @@ def print_datetime(datetime_object):
     print('Date and Time String 3:', datetime_string_3(datetime_object))
     print('Date and Time String 4:', datetime_string_4(datetime_object))
     
+# Second requirement Change    
+    
 # Function to print daylight-saving starting date time and daylight-saving ending date time
 def print_daylight_saving_start_end():
     startDateTime = daylight_date_time_start();
